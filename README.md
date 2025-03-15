@@ -45,6 +45,13 @@ Hello Everyone 👋
 
 👉 It may take 1-2 minutes to process; refresh the page (F5) to check if it has gone through.
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/037cbd13-6389-4a20-90a9-214fe63b89c6" width="400">
+    <img src="https://github.com/user-attachments/assets/3e3da3c8-deb5-4d19-b83b-86cb698e3c4e" width="400">
+    <img src="https://github.com/user-attachments/assets/574930df-8be1-47c0-ad9a-3e0fae764c6b" width="400">
+    <img src="https://github.com/user-attachments/assets/4b270242-ce8e-4746-b960-1861ff71930c" width="400">
+</p>
+
 #### 🟢 wstETH Supply:
 👉 Click the Supply button.
 
@@ -53,6 +60,11 @@ Hello Everyone 👋
 👉 It may take 1-2 minutes to process; refresh the page (F5) to check if it has gone through.
 
 👉 I sent 0.1 wstETH each.
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/8bf4a05e-c040-4374-8704-930595db47a0" width="400">
+    <img src="https://github.com/user-attachments/assets/3af7e638-161f-4fe8-9b48-151b7614e293" width="400">
+</p>
 
 ####  🟢 Enabling Collateral:
 👉 Click on the Collateral toggle in the Supply section to turn it green (active).
