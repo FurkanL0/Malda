@@ -8,7 +8,7 @@ Hello Everyone 👋
 
 🟢 Malda Event Announcement: https://x.com/malda_xyz/status/1898014556904944022
 
-Thread 👇
+#### Thread 👇
 
 ![image](https://github.com/user-attachments/assets/cd111f67-ced1-4562-a9f2-30b94ffec464)
 
