@@ -34,6 +34,10 @@ Hello Everyone 👋
 
 👉 Claiming faucets requires a fee from your wallet - you will need to approve the transaction.
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/9c528bec-120c-41ad-810d-d9bd7ee89b00" width="400">
+</p>
+
 #### 🟢 USDC Supply:
 👉 Click the Supply button.
 
