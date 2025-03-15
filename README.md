@@ -1,7 +1,7 @@
 # Malda
 
 - Hello Everyone 👋
-🟢 Let's join the Malda ( @malda_xyz ) X Risc Zero ( @RiscZero ) Public Testnet Event 👀 Incentivized 👀
+- 🟢 Let's join the Malda ( @malda_xyz ) X Risc Zero ( @RiscZero ) Public Testnet Event 👀 Incentivized 👀
 
 🔗 Link: https://testnet.malda.xyz/
 🔗 Galxe Link: https://app.galxe.com/quest/malda/GCaCHtpLPe
