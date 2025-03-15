@@ -163,6 +163,12 @@
 
 👉 The Discord link is at the bottom right of the website.
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/4c876d46-5d8e-4c15-944d-4f995405fcaf" width="400">
+    <img src="https://github.com/user-attachments/assets/f6404549-d5f2-49aa-b4b9-08c55309ee84" width="400">
+    <img src="https://github.com/user-attachments/assets/9f1d9936-892a-4a2e-ba37-5f0f06cce109" width="400">
+</p>
+
 #### 🟢 Tasks Completed:
 👉 Complete all tasks and claim 250 Points. The API checks and refreshes data every hour, so if you complete a task at 7, check at 8 to confirm. Gravity charges a fee, but if you use Rabby Wallet, you can transfer 1 USDC to your Gas account and pay fees from there.
 
@@ -170,6 +176,15 @@
 
 👉 You can also do the Mirror Page Mint here: https://mirror.xyz/0x4Da818DD3aAfb9D042a76B5037cdBa61533C7692/jzl9m7iSWPf0c-hsQwbjWLdhk5DiFk6LhfPCXOknu8w
 
+![GmDsSqSWcAAnt7T](https://github.com/user-attachments/assets/e3c54a85-628f-4d1a-89b7-09e5fdffbe4e)
+
+
 #### Thanks 👀🤍
 ####  Incentive:
 - "Participants will receive NFT rewards based on their contributions. These NFTs will increase Malda Points and provide a major advantage before the $MALDA distribution. Higher-level NFTs will offer more bonuses!"
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=brightgreen&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
+</p>
