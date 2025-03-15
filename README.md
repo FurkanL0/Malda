@@ -23,8 +23,8 @@ Hello Everyone 👋
 🟢 Registration is required for Linea and OP - For Sepolia, you can claim directly using your email via Google Cloud. OP might take 1-2 minutes to reflect, so please be patient.
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/11830dd1-f5b7-4efe-93cc-592c69dbfe75" width="200">
-    <img src="https://github.com/user-attachments/assets/337f0d0b-8649-4188-9cf3-4285092d5005" width="200">
+    <img src="https://github.com/user-attachments/assets/90720e15-0485-4ee9-9208-5f5e3b4352c2" width="400">
+    <img src="https://github.com/user-attachments/assets/0ac5f82c-1c63-47ff-b56d-b9b160fb8cee" width="400">
 </p>
 
 🟢 Malda Faucet:
