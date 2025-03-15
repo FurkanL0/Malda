@@ -85,6 +85,13 @@
 
 👉 I borrowed 50 USDC each.
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/073c3bd1-2bbe-40a4-931b-ab4f4a2b94b2" width="400">
+    <img src="https://github.com/user-attachments/assets/bb2ba52c-48f5-4362-8275-a690c9473750" width="400">
+    <img src="https://github.com/user-attachments/assets/db2b28d0-24f1-4a78-977f-8ca3960cd1ea" width="400">
+    <img src="https://github.com/user-attachments/assets/851fb9ec-9bde-4e3d-9da1-33acd9379a35" width="400">
+</p>
+
 #### 🟢 wstETH Borrow:
 👉 Click the Borrow button.
 
@@ -93,6 +100,13 @@
 👉 It may take 1-2 minutes to process; refresh the page (F5) to check if it has gone through.
 
 👉 I borrowed 0.005 wstETH each.
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/4e698818-ac3d-48ff-9361-c43102ebfcf9" width="400">
+    <img src="https://github.com/user-attachments/assets/6f237d62-1241-4cfc-bb06-a32a474d430f" width="400">
+    <img src="https://github.com/user-attachments/assets/a8c6682d-98b5-448b-8cae-6873f442fa70" width="400">
+    <img src="https://github.com/user-attachments/assets/31525cd9-879b-44da-89bb-227672b7c855" width="400">
+</p>
 
 #### 🟢 USDC Repay:
 👉 Click the Repay button.
