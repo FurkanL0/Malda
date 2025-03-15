@@ -71,6 +71,11 @@
 
 👉 Your wallet will request confirmation for the transactions.
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/012479d6-e0da-4f40-b37d-6fba22e886e6" width="400">
+    <img src="https://github.com/user-attachments/assets/4bc83196-7453-402b-b451-59842e0b66f6" width="400">
+</p>
+
 #### 🟢 USDC Borrow:
 👉 Click the Borrow button.
 
