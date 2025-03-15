@@ -115,12 +115,22 @@
 
 👉 I repaid 25 USDC on each of the three networks - your wallet might request double confirmation.
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/21c48369-bc01-4739-81c3-e85c22613b8c" width="400">
+    <img src="https://github.com/user-attachments/assets/417d0eec-ec07-4871-ac81-464b54e8619a" width="400">
+</p>
+
 #### 🟢 wstETH Repay:
 👉 Click the Repay button.
 
 👉 You can repay on any network; I repaid on all of them.
 
 👉 I repaid 0.001 wstETH on each of the three networks - your wallet might request double confirmation.
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/fe0350a3-3600-46a2-9e4b-ceee54389134" width="400">
+    <img src="https://github.com/user-attachments/assets/092fdc24-54b7-4138-9e4c-c55a7519be89" width="400">
+</p>
 
 #### 🟢 USDC Withdraw:
 👉 Click the Withdraw button.
@@ -129,12 +139,22 @@
 
 👉 I withdrew 10 USDC from the Sepolia network.
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/abf98b04-c093-4100-9eb8-6a9a92902295" width="400">
+    <img src="https://github.com/user-attachments/assets/b3fc2318-2f9a-4e30-a42a-8226f6bcfdf3" width="400">
+</p>
+
 #### 🟢 wstETH Withdraw:
 👉 Click the Withdraw button.
 
 👉 You can withdraw on any network.
 
 👉 I withdrew 0.01 wstETH from the OP network.
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/c0f8abc5-7c63-48bd-b8d6-2eed2b7cd108" width="400">
+    <img src="https://github.com/user-attachments/assets/fa5e1ad3-64d2-478f-b1f0-554717016d43" width="400">
+</p>
 
 #### 🟢 Twitter / Discord Feedback:
 👉 Share your feedback about the Testnet on Twitter and paste the tweet link.
